@@ -30,6 +30,7 @@ If you're making a relatively small change - like fixing a typo or rewording som
 
 But if you want to contribute heavily, we recommend you doing a local setup of the documentation.
 
+
 ### Local setup
 1. Run composer install 
 7. In the terminal generate user for admin panel `bin/plugin login newuser`
